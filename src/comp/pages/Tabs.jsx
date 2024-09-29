@@ -18,7 +18,7 @@ const Tabs = () => {
                     method: 'GET',
                     url: 'https://cricbuzz-cricket.p.rapidapi.com/matches/v1/live',
                     headers: {
-                        'x-rapidapi-key': 'c542f26351msh1f5aeec6f691c7ep124b23jsnfd47354542ab',
+                        'x-rapidapi-key': 'apikey',
                         'x-rapidapi-host': 'cricbuzz-cricket.p.rapidapi.com'
                     }
                 };
